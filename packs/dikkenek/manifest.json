@@ -1,0 +1,60 @@
+{
+  "name": "dikkenek",
+  "display_name": "Dikkenek",
+  "categories": {
+    "greeting": {
+      "sounds": [
+        { "file": "messieurs_dame_bonjour.mp3", "line": "Messieurs-dame, bonjour !" },
+        { "file": "je_suis_claudy.mp3", "line": "Je suis Claudy" },
+        { "file": "he_ket.mp3", "line": "Hé ket !" },
+        { "file": "bonjour_sabine.mp3", "line": "Bonjour Sabine" }
+      ]
+    },
+    "acknowledge": {
+      "sounds": [
+        { "file": "dur_comme_boulot.mp3", "line": "Dur comme boulot" },
+        { "file": "ca_depend.mp3", "line": "Ça dépend" },
+        { "file": "tout_negociable.mp3", "line": "Tout est négociable" },
+        { "file": "un_petit_clic.mp3", "line": "Un petit clic" },
+        { "file": "si_je_te_dis.mp3", "line": "Si je te dis" }
+      ]
+    },
+    "complete": {
+      "sounds": [
+        { "file": "terminer_bonsoir.mp3", "line": "Terminé bonsoir" },
+        { "file": "tas_vu_ca.mp3", "line": "T'as vu ça ?" },
+        { "file": "encore_une_petite.mp3", "line": "Encore une petite" },
+        { "file": "soleil.mp3", "line": "Soleil" }
+      ]
+    },
+    "error": {
+      "sounds": [
+        { "file": "elle_est_morte.mp3", "line": "Elle est morte" },
+        { "file": "il_est_tout_a_fait_fou.mp3", "line": "Il est tout à fait fou" },
+        { "file": "ont_pas_rate.mp3", "line": "Ils ont pas raté" },
+        { "file": "idiot.mp3", "line": "Idiot" }
+      ]
+    },
+    "permission": {
+      "sounds": [
+        { "file": "quest_ce_qui_a.mp3", "line": "Qu'est-ce qu'il y a ?" },
+        { "file": "poli_ou_pas_poli.mp3", "line": "Poli ou pas poli ?" },
+        { "file": "ca_va_suffir.mp3", "line": "Ça va suffire" }
+      ]
+    },
+    "resource_limit": {
+      "sounds": [
+        { "file": "materiellement_pas_le_temps.mp3", "line": "Matériellement pas le temps" },
+        { "file": "je_veux_quitter_cette_ville.mp3", "line": "Je veux quitter cette ville" }
+      ]
+    },
+    "annoyed": {
+      "sounds": [
+        { "file": "excessivement_enervant.mp3", "line": "Excessivement énervant" },
+        { "file": "excuse_toi.mp3", "line": "Excuse-toi" },
+        { "file": "vulgaire.mp3", "line": "Vulgaire" },
+        { "file": "mal_reveillee.mp3", "line": "Mal réveillée" }
+      ]
+    }
+  }
+}
